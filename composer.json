@@ -1,0 +1,16 @@
+{
+    "name": "baconmanager/translation-form-bundle",
+    "description": "This bundle of symfony2",
+    "keywords": ["Form Bundle"],
+    "type": "symfony-bundle",
+    "license":      "MIT",
+    "authors": [
+        {
+            "name": "Adan Felipe Medeiros",
+            "email": "adan.grg@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Bacon\\Bundle\\TranslationFormBundle\\": "" }
+    }
+}
